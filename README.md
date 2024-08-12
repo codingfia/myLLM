@@ -1,2 +1,2 @@
 # myLLM
-个人大模型项目 - Tutorial请访问 [InternLM Tutorial](https://github.com/InternLM/Tutorial)
+教程安利 [InternLM Tutorial](https://github.com/InternLM/Tutorial)
